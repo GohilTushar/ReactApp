@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/complatereactwebsite/static/css/main.ba7d87c3.css",
+    "main.js": "/complatereactwebsite/static/js/main.863ddfee.js",
+    "static/media/flutter.jpg": "/complatereactwebsite/static/media/flutter.779250578fa42ae90c16.jpg",
+    "static/media/marketing.jpg": "/complatereactwebsite/static/media/marketing.56113d70f17466430cc1.jpg",
+    "static/media/software.jpg": "/complatereactwebsite/static/media/software.ac64486422136a130f20.jpg",
+    "static/media/app.jpg": "/complatereactwebsite/static/media/app.a9b613e6a6ac32969de4.jpg",
+    "static/media/digital.jpg": "/complatereactwebsite/static/media/digital.4448d7172fdbc114d590.jpg",
+    "static/media/web.jpg": "/complatereactwebsite/static/media/web.7944545de38e29013135.jpg",
+    "static/media/s2.svg": "/complatereactwebsite/static/media/s2.14b7a7037c08bf6e6f93c20129d87b0a.svg",
+    "static/media/img2.svg": "/complatereactwebsite/static/media/img2.2c9c811ef56b97ddfb220ecea2c73a7c.svg",
+    "index.html": "/complatereactwebsite/index.html",
+    "main.ba7d87c3.css.map": "/complatereactwebsite/static/css/main.ba7d87c3.css.map",
+    "main.863ddfee.js.map": "/complatereactwebsite/static/js/main.863ddfee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba7d87c3.css",
+    "static/js/main.863ddfee.js"
+  ]
+}
